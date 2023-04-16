@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "mongo": "^0.1.0",
+    "mongoose": "^6.6.7"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "mongo-db",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
